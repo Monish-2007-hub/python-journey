@@ -6,5 +6,5 @@ i = 0
 
 while i < len(nums):
     if(nums[i] == x):
-        print("FOUND")
+        print("FOUND at index", i)
     i += 1 
